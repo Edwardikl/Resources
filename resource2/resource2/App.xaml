@@ -1,0 +1,18 @@
+﻿<Application x:Class="resource2.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:resource2"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+        <BitmapImage x:Key="imgRes1" UriSource="C:\Practices\C#\resource2\resource2\Resource\1.jpg"/>
+        <BitmapImage x:Key="imgRes2" UriSource="C:\Practices\C#\resource2\resource2\Resource\2.jpg"/>
+        <BitmapImage x:Key="imgRes3" UriSource="C:\Practices\C#\resource2\resource2\Resource\3.jpg"/>
+        <BitmapImage x:Key="imgRes4" UriSource="C:\Practices\C#\resource2\resource2\Resource\4.jpg"/>
+        <BitmapImage x:Key="imgRes5" UriSource="C:\Practices\C#\resource2\resource2\Resource\5.jpg"/>
+        <BitmapImage x:Key="imgRes6" UriSource="C:\Practices\C#\resource2\resource2\Resource\6.jpg"/>
+        <BitmapImage x:Key="imgRes7" UriSource="C:\Practices\C#\resource2\resource2\Resource\7.jpg"/>
+        <BitmapImage x:Key="imgRes8" UriSource="C:\Practices\C#\resource2\resource2\Resource\8.jpg"/>
+        <BitmapImage x:Key="imgRes9" UriSource="C:\Practices\C#\resource2\resource2\Resource\9.jpg"/>
+        <BitmapImage x:Key="imgRes10" UriSource="C:\Practices\C#\resource2\resource2\Resource\10.jpg"/>
+    </Application.Resources>
+</Application>

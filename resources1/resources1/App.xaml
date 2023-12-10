@@ -1,0 +1,12 @@
+﻿<Application x:Class="resources1.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:resources1"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+        <SolidColorBrush x:Key="buttonBrush1" Color="Blue"/>
+        <SolidColorBrush x:Key="buttonBrush2" Color="Red"/>
+        <ImageBrush x:Key="imageBrush1" ImageSource="C:\Practices\C#\resources1\resources1\image\FACE02.ICO" Stretch="None" TileMode="Tile" Viewport="0,0,15,15" ViewportUnits="Absolute"/>
+        <ImageBrush x:Key="imageBrush2" ImageSource="C:\Practices\C#\resources1\resources1\image\FACE04.ICO" Stretch="None" TileMode="Tile" Viewport="0,0,32,32" ViewportUnits="Absolute"/>
+    </Application.Resources>
+</Application>

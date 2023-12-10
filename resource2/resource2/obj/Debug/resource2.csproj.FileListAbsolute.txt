@@ -1,0 +1,17 @@
+C:\Practices\C#\resource2\resource2\bin\Debug\resource2.exe.config
+C:\Practices\C#\resource2\resource2\bin\Debug\resource2.exe
+C:\Practices\C#\resource2\resource2\bin\Debug\resource2.pdb
+C:\Practices\C#\resource2\resource2\obj\Debug\resource2.csproj.AssemblyReference.cache
+C:\Practices\C#\resource2\resource2\obj\Debug\MainWindow.g.cs
+C:\Practices\C#\resource2\resource2\obj\Debug\App.g.cs
+C:\Practices\C#\resource2\resource2\obj\Debug\resource2_MarkupCompile.cache
+C:\Practices\C#\resource2\resource2\obj\Debug\resource2_MarkupCompile.lref
+C:\Practices\C#\resource2\resource2\obj\Debug\MainWindow.baml
+C:\Practices\C#\resource2\resource2\obj\Debug\resource2.g.resources
+C:\Practices\C#\resource2\resource2\obj\Debug\resource2.Properties.Resources.resources
+C:\Practices\C#\resource2\resource2\obj\Debug\resource2.csproj.GenerateResource.cache
+C:\Practices\C#\resource2\resource2\obj\Debug\resource2.csproj.CoreCompileInputs.cache
+C:\Practices\C#\resource2\resource2\obj\Debug\resource2.exe
+C:\Practices\C#\resource2\resource2\obj\Debug\resource2.pdb
+C:\Practices\C#\resource2\resource2\obj\Debug\resource2_Content.g.cs
+C:\Practices\C#\resource2\resource2\obj\Debug\App.baml

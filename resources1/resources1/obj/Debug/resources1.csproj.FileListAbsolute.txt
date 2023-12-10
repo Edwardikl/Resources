@@ -1,0 +1,17 @@
+C:\Practices\C#\resources1\resources1\bin\Debug\image\10440.jpg
+C:\Practices\C#\resources1\resources1\bin\Debug\resources1.exe.config
+C:\Practices\C#\resources1\resources1\bin\Debug\resources1.exe
+C:\Practices\C#\resources1\resources1\bin\Debug\resources1.pdb
+C:\Practices\C#\resources1\resources1\obj\Debug\resources1.csproj.AssemblyReference.cache
+C:\Practices\C#\resources1\resources1\obj\Debug\MainWindow.g.cs
+C:\Practices\C#\resources1\resources1\obj\Debug\App.g.cs
+C:\Practices\C#\resources1\resources1\obj\Debug\resources1_MarkupCompile.cache
+C:\Practices\C#\resources1\resources1\obj\Debug\resources1_MarkupCompile.lref
+C:\Practices\C#\resources1\resources1\obj\Debug\App.baml
+C:\Practices\C#\resources1\resources1\obj\Debug\MainWindow.baml
+C:\Practices\C#\resources1\resources1\obj\Debug\resources1.g.resources
+C:\Practices\C#\resources1\resources1\obj\Debug\resources1.Properties.Resources.resources
+C:\Practices\C#\resources1\resources1\obj\Debug\resources1.csproj.GenerateResource.cache
+C:\Practices\C#\resources1\resources1\obj\Debug\resources1.csproj.CoreCompileInputs.cache
+C:\Practices\C#\resources1\resources1\obj\Debug\resources1.exe
+C:\Practices\C#\resources1\resources1\obj\Debug\resources1.pdb
